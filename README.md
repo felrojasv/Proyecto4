@@ -8,11 +8,22 @@ Por último, se grafica la señales modulada y demodulada para su comparación, 
 
 ![image](https://user-images.githubusercontent.com/85850836/124696552-8ad1b700-dea2-11eb-978b-d0b236755d54.png)
 
+Los resultados obtenidos despues de la modulación son los siguientes:
+
+![1](https://user-images.githubusercontent.com/85850836/125560682-b91edb37-0b97-4ce1-a93a-d846af1103b9.jpg)
+
+Es importante resaltar que el lapso de tiempo ejecutado en la simulación es realmente largo, sin embargo, para garantizar su funcionamiento se utilizó un segmento del vector de bits. 
+
 Sección 4.2:
 
 Al realizar esta parte, se tomó un bloque de código presentado en el Laboratorio 4 para desarrollar la simulación de la señal Tx, al analizar las gráficas obtenidas se puede observar que los resultados teóricos
 y experimentales son realmente similares, los promedios son constantes en el tiempo y hay estacionaridad. 
 
+![2](https://user-images.githubusercontent.com/85850836/125560823-8612279e-ad0c-4e80-baaa-5bae821dd2a2.png)
+
+
 Sección 4.3: 
 
 Para poder obtener la densidad espectral de potencia se usó el módulo de scipy respectivo a la transformada de Fourier y con ella transformar la señal Tx.
+
+![3](https://user-images.githubusercontent.com/85850836/125560884-ccc82b78-a847-4eb9-8a22-df77e95e6750.png)
