@@ -19,7 +19,8 @@ Sección 4.2:
 Al realizar esta parte, se tomó un bloque de código presentado en el Laboratorio 4 para desarrollar la simulación de la señal Tx, al analizar las gráficas obtenidas se puede observar que los resultados teóricos
 y experimentales son realmente similares, los promedios son constantes en el tiempo y hay estacionaridad. 
 
-![2](https://user-images.githubusercontent.com/85850836/125560823-8612279e-ad0c-4e80-baaa-5bae821dd2a2.png)
+![2](https://user-images.githubusercontent.com/85850836/125560979-f800092b-3f3b-491c-858c-9901859a90a6.png)
+
 
 
 Sección 4.3: 
